@@ -10,7 +10,8 @@ Function(主要功能):
   3. Customize audio effects | 使用者自定義音效
 
 Version(版本):
-  v1.0.0 ...	Complete Func. 2 & 3 | 功能2 、3 完成開發
+  1. v1.0.0 ...	Complete Func. 2 & 3 | 功能2 、3 完成開發
+  2. v1.0.1 ... Complete all Func. | 全功能達成
 
 Next Version(下次更新):
-  1. Enhancing F | 完成功能1
+  1. UI美化(ASP.etc)
